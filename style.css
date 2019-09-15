@@ -1,7 +1,8 @@
 body {
-    background-color: blueviolet;
-    color: brown;
+    background-color: rgb(197, 6, 102);
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
+    text-align: center;
     
 }
